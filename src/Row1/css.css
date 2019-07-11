@@ -1,0 +1,61 @@
+.FirstPage{
+width:100%;
+height:56vh;
+
+border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border: 1px solid black;
+
+}
+.head{
+   
+    width:100%;
+    height:9vh;
+    border-bottom: 1px solid grey;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.insidehead{
+    color:black;
+    width: 60%;
+    height:5vh;
+    /* margin-top: 1vh; */
+    padding-top:2vh;
+  
+    margin-left: 20px;
+    font-size: 17px;
+    font-weight:550;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+    
+}
+.parent{
+    width:100%;
+    height:47vh;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+   
+}
+.mycards{
+    width:16.5%;
+    height:23.3vh;
+    
+    border: 1px soilid grey;
+}
+.photo{
+width:95%;
+height:17vh;
+margin-left: auto;
+margin-right: auto;
+
+
+}
+.tex{
+    width:95%;
+    height:6.3vh;
+    margin-left: auto;
+    margin-right: auto;
+    
+    text-align: center;
+
+}

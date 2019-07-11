@@ -1,0 +1,32 @@
+.page{
+    width:100%;
+    height:50vh;
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    display:flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+}
+.image{
+    border:1px solid transparent;
+    border-radius: 10px;
+}
+.Row1{
+width:50%;
+height: 49vh;
+margin-left: auto;
+margin-right: auto;
+margin-top: 1vh;
+display:flex;
+justify-content: center
+}
+.Row2{
+    width:50%;
+    height: 49vh;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1vh;
+    display:flex;
+justify-content: center
+}
